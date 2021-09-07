@@ -16,6 +16,8 @@ _Específicos_
 
 2. MARCO TEORICO
 
+![5ec0c254a73a45e9bdf05adf83df2946-0001](https://user-images.githubusercontent.com/84390686/132288119-5168921c-11da-46b5-bbb6-491315fbb0b3.jpg)
+
 3. EXPLICACIÓN DEL PROCESO
 
 *- Material y equipo requerido*
