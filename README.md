@@ -6,7 +6,13 @@
 
 _General_ 
 
+* Determinar las características de las señales senoidales en corriente alterna (ca) mediante un osciloscopio que demuestra la corriente eléctrica, su magnitud y dirección periódicamente para el análisis del comportamiento de la fuente de voltaje ca. 
 
+_Específicos_ 
+
+* Utilizar correctamente los materiales técnicos para la implementación del circuito RL.
+* Analizar en forma experimental los valores medios y eficaces en un circuito de C.A. resistivo, con rectificador de media onda y con rectificador de onda completa. 
+* Conocer los instrumentos que miden estos valores (valor medio y valor eficaz).
 
 
 
