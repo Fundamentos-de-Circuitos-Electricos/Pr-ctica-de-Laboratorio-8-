@@ -72,7 +72,7 @@ En que valor esta posicionada la perilla TIME/DIV?  0.1m TIME/DIV
 
 Cual es la amplitud de voltaje y el periodo de la senal que aparece en la pantalla del osciloscopio?
 
-Amplitud de voltaje: 23.3 (V)
+Amplitud de voltaje: 7 (V)
 
 Periodo: 0.4 ms
 
