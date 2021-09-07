@@ -62,7 +62,7 @@ Cuantas divisiones por cuadro abarca la amplitud pico de la senal de salida?
 
 2 + 1/3 de cuadros en la amplitud de la señal pico
 
-En que valor esta posicionada la perilla VOLTS/DIV? En 10 VOLTS/DIV
+En que valor esta posicionada la perilla VOLTS/DIV? En 3 VOLTS/DIV
 
 Cuantas divisiones por cuadro abarca un ciclo completo de la senal de salida?
 
