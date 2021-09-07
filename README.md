@@ -102,6 +102,9 @@ Porque el multimetro cuando medimos corriente ca nos muestra el voltaje en rms e
 
 7. BIBLIOGRAFÍA.
 
+ - Red, E. (29 de Agosto de 2019). Onda Senoidal. Obtenido de https://www.ecured.cu/Onda_senoidal
+
+ - Fanny Zapata. (20 de agosto de 2019). Onda senoidal: características, partes, cálculo, ejemplos. Lifeder. Recuperado de https://www.lifeder.com/onda-senoidal/..
 
 
 
