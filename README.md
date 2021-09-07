@@ -72,15 +72,15 @@ En que valor esta posicionada la perilla TIME/DIV?  0.1m TIME/DIV
 
 Cual es la amplitud de voltaje y el periodo de la senal que aparece en la pantalla del osciloscopio?
 
-Amplitud de voltaje: 7 (V)
+Amplitud de voltaje: 4/3 DIV * 3 V/DIV = 7(V)
 
-Periodo: 0.4 ms
+Periodo: 4 DIV  * 0.1 ms/DIV = 0.4 ms
 
-Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la senal de salida.
+Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida.
 
-f: 2.5 KHz
+f: 1/T = 1/0.4 ms 2.5 KHz
 
-ω: 5000π (rad/s)
+ω: 2π/T = 2π/0.4ms = 5000π (rad/s)
 
 Con el multimetro digital mida el voltaje de salida en RL: 
 
