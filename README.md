@@ -52,6 +52,47 @@ _Específicos_
 
 ![image](https://user-images.githubusercontent.com/85137398/132284375-7f558391-d0aa-4fbb-bcab-5a5271cb073e.png)
 
+4.	RESPUESTAS A INTERROGANTES Y CÁLCULO DEL ERROR
+
+Responda las siguientes preguntas:
+
+Cuantas divisiones por cuadro abarca la amplitud pico de la senal de salida?
+
+___________
+
+En que valor esta posicionada la perilla VOLTS/DIV? ___________
+
+Cuantas divisiones por cuadro abarca un ciclo completo de la senal de salida?
+
+__________
+
+En que valor esta posicionada la perilla TIME/DIV? ___________
+
+Cual es la amplitud de voltaje y el periodo de la senal que aparece en la pantalla del osciloscopio?
+
+Amplitud de voltaje: ____________(V)
+
+Periodo: ____________(s)
+
+Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la senal de salida.
+
+f: _____________(Hz)
+
+ω: ____________(rad/s)
+
+Con el multimetro digital mida el voltaje de salida en RL: _______________
+
+Compare el voltaje medido en el punto 7.5.5. y el obtenido en el punto
+
+Coinciden? _______ .Por que?
+
+_______________________________________________
+
+5. VIDEO.
+
+6. CONCLUSIONES.
+
+7. BIBLIOGRAFÍA.
 
 
 
