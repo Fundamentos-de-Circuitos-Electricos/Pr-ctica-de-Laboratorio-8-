@@ -98,6 +98,8 @@ Porque el multimetro cuando medimos corriente ca nos muestra el voltaje en rms e
 
 5. VIDEO.
 
+https://youtu.be/aWKyiuJD6HQ
+
 6. CONCLUSIONES.
 
  - El análisis de la onda sinusoidal es fundamental para encontrar los valores deseados, las divisiones que tiene esta onda son muy necesarias para encontrar cantidades como voltaje, periodo, frecuencia, al utilizar las ecuaciones necesarias y competentes se logran obtener resultados sin ninguna dificultad.
@@ -109,24 +111,4 @@ Porque el multimetro cuando medimos corriente ca nos muestra el voltaje en rms e
  - Red, E. (29 de Agosto de 2019). Onda Senoidal. Obtenido de https://www.ecured.cu/Onda_senoidal
 
  - Fanny Zapata. (20 de agosto de 2019). Onda senoidal: características, partes, cálculo, ejemplos. Lifeder. Recuperado de https://www.lifeder.com/onda-senoidal/..
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
