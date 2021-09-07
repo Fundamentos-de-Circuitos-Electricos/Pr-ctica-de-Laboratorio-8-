@@ -58,35 +58,41 @@ Responda las siguientes preguntas:
 
 Cuantas divisiones por cuadro abarca la amplitud pico de la senal de salida?
 
-___________
+2 + 1/3 de cuadros en la amplitud de la señal pico
 
-En que valor esta posicionada la perilla VOLTS/DIV? ___________
+En que valor esta posicionada la perilla VOLTS/DIV? En 10 VOLTS/DIV
 
 Cuantas divisiones por cuadro abarca un ciclo completo de la senal de salida?
 
-__________
+Un ciclo completo abarca cuatro cuadros en la señal de salida.
 
-En que valor esta posicionada la perilla TIME/DIV? ___________
+En que valor esta posicionada la perilla TIME/DIV?  0.1m TIME/DIV
 
 Cual es la amplitud de voltaje y el periodo de la senal que aparece en la pantalla del osciloscopio?
 
-Amplitud de voltaje: ____________(V)
+Amplitud de voltaje: 23.3 (V)
 
-Periodo: ____________(s)
+Periodo: 0.4 ms
 
 Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la senal de salida.
 
-f: _____________(Hz)
+f: 2.5 KHz
 
-ω: ____________(rad/s)
+ω: 5000π (rad/s)
 
-Con el multimetro digital mida el voltaje de salida en RL: _______________
+Con el multimetro digital mida el voltaje de salida en RL: 
 
-Compare el voltaje medido en el punto 7.5.5. y el obtenido en el punto
+![image](https://user-images.githubusercontent.com/84390820/132286813-408dc6df-34ec-4f0f-87dc-c634a85f4d74.png)
 
-Coinciden? _______ .Por que?
+Compare el voltaje medido en el punto 7.5.5. y el obtenido en el punto 7.5.7 
 
-_______________________________________________
+¿Coinciden? 
+
+No Coinciden 
+
+¿Por que?
+
+Porque el multimetro cuando medimos corriente ca nos muestra el voltaje en rms en cambio en el osciloscopio vemos el voltaje maximo directamente.
 
 5. VIDEO.
 
