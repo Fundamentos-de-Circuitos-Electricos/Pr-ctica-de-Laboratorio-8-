@@ -102,6 +102,8 @@ Porque el multimetro cuando medimos corriente ca nos muestra el voltaje en rms e
 
  - El análisis de la onda sinusoidal es fundamental para encontrar los valores deseados, las divisiones que tiene esta onda son muy necesarias para encontrar cantidades como voltaje, periodo, frecuencia, al utilizar las ecuaciones necesarias y competentes se logran obtener resultados sin ninguna dificultad.
 
+ - El osciloscopio es un instrumento muy importante es por ello que existe la necesidad de saber cual es la manera adecuada de utilizarlo; seguir los parámetros, como ser una adecuada calibración y el buen uso de sus partes es fundamental para obtener resultados excelentes y confiables.
+ 
 7. BIBLIOGRAFÍA.
 
  - Red, E. (29 de Agosto de 2019). Onda Senoidal. Obtenido de https://www.ecured.cu/Onda_senoidal
